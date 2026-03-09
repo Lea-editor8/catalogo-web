@@ -1,0 +1,13 @@
+{
+  "name": "catalogo-edunlu-2025",
+  "version": "1.0.0",
+  "description": "Catálogo web de la Editorial de la Universidad Nacional de Luján",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [],
+  "author": "EdUNLu",
+  "license": "ISC"
+}

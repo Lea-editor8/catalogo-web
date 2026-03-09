@@ -15,7 +15,7 @@
 
         // --- Configuración ---
         const REMOTE_LIBRARY_CONFIG = {
-            baseUrl: "https://EdUNLu-editorial.github.io/catalogo-web/",
+            baseUrl: "./",
             indexFile: "datos/catalogo_edunlu.json"
         };
         const LOGO_URL = "https://EdUNLu-editorial.github.io/catalogo-web/logos/edunlu-original.svg";
