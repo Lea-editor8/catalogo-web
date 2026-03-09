@@ -1,116 +1,1032 @@
 [
-    { "id": "agendas-de-ordenamiento-ambiental-id", "title": "Agendas de ordenamiento ambiental", "author": "Nélida da Costa Pereira y María Cecilia Poggi", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/174/", "coverImageUrl": "covers/agendas-ordenamiento.gif", "publishDate": "2019-02-10" },
-    { "id": "agricultura-familiar-id", "title": "La agricultura familiar entre lo rural y lo urbano", "author": "González Maraschio Fernanda y Villarreal Federico", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/233", "coverImageUrl": "covers/agricultura_familiar.gif", "publishDate": "2020-06-10" },
-    { "id": "aportes-para-las-renovaciones-id", "title": "Aportes para las renovaciones temáticas, conceptuales y didácticas de la Geografía escolar", "author": "Viviana Zenobi y Adriana B. Villa", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/299", "coverImageUrl": "covers/aportes_geografia.gif", "publishDate": "2023-08-10" },
-    { "id": "guia-ilustrada-id", "title": "Guía ilustrada de daños ocasionados por la ardilla de vientre rojo en Argentina", "author": "Mariela Borgnia, Paula Pedreira, Verónica Benitez, Agustina Darget y M. Laura Guichón", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/300", "coverImageUrl": "covers/ardillas.gif", "publishDate": "2023-09-01" },
-    { "id": "el-campo-pedagogico-moderno-id", "title": "El campo pedagógico moderno en la formación de trabajadores y ciudadanos", "author": "Claudia Figari, Marcelo Hernández, Adriana Migliavacca y Gabriela Vilariño", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/93", "coverImageUrl": "covers/campo-pedagogico.gif", "publishDate": "2017-09-01" },
-    { "id": "claroscuros-id", "title": "Claroscuros", "author": "Cristian Avaca", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/78", "coverImageUrl": "covers/claro-oscuro.gif", "publishDate": "2016-08-01" },
-    { "id": "el-control-de-la-lectura-id", "title": "El control de la lectura", "author": "Roberta Paula Spregelburd y María Cristina Linares", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/105", "coverImageUrl": "covers/control_de_la_lectura.gif", "publishDate": "2017-11-01" },
-    { "id": "estudios-cuenca-rio-lujan-id", "title": "Estudios de la Cuenca del Río Luján: Distintas miradas desde la Universidad Nacional de Luján", "author": "Elena Craig", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/291", "coverImageUrl": "covers/cuenca_rio_lujan.gif", "publishDate": "2023-02-01" },
-    { "id": "educacion-fisica-y-tic-id", "title": "Educación Física y TIC. Uso y conocimiento en Proyectos Pedagógicos situados en la Escuela Secundaria de la Provincia de Buenos Aires", "author": "Mariel Ruiz y Silvina Casablancas", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/322", "coverImageUrl": "covers/edu_fisica_tic.gif", "publishDate": "2025-04-01" },
-    { "id": "ensayos-para-pensar-id", "title": "Ensayos para pensar experiencias escolares. Educación y educación física", "author": "Graziano, Andrea Magdalena", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/152", "coverImageUrl": "covers/ensayos-para-pensar.gif", "publishDate": "2018-02-10" },
-    { "id": "entrelineas-id", "title": "Entrelíneas", "author": "Cristian Avaca", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/178", "coverImageUrl": "covers/entrelineas.gif", "publishDate": "2018-12-01" },
-    { "id": "esas-cosas-que-se-saben-id", "title": "Esas cosas que se saben", "author": "Marcos Tabossi", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/269", "coverImageUrl": "covers/esas_cosas.gif", "publishDate": "2022-03-10" },
-    { "id": "especies-invernales-id", "title": "Especies Invernales utilizadas como Verdeos de Invierno. Generalidades y datos de producción para la zona de influencia de la UNLu", "author": "Adriana Fernanda Spara y Eduardo Vernengo", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/302", "coverImageUrl": "covers/especies_invernales.gif", "publishDate": "2023-10-01" },
-    { "id": "fundamentos-de-ambiente-id", "title": "Fundamentos de ecología y ambiente", "author": "Leonardo Malacalza, Fernando R. Momo y Carlos E. Coviella", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/123", "coverImageUrl": "covers/fundamentos-ecologia.gif", "publishDate": "2017-12-01" },
-    { "id": "genetica-aplicada-id", "title": "Genética aplicada a la producción avícola: especialización en producción avícola.", "author": "Melo, Julián E.", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/323", "coverImageUrl": "covers/genetica_aplicada.gif", "publishDate": "2025-05-01" },
-    { "id": "formar-lideres-id", "title": "Formar líderes y salvar a los jóvenes. Claves para comprender la cultura escolar del Instituto Nacional de Educación Física General Belgrano.", "author": "Ángela Aisenstein, María Andrea Feiguin, María Dolores Martínez, Mercedes del Pilar Cobiella, Ignacio Melano, Leandro Elias y Manuel Ignacio Moreno", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/321", "coverImageUrl": "covers/formar_lideres_salvar_jovenes.gif", "publishDate": "2025-03-01" },            
-    { "id": "oir-leer-escribir-id", "title": "Oir, leer, escribir. La cultura escrita entre la Colonia y la Independencia desde la Historia Social de la Educación.", "author": " María Cristina Linares", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/320", "coverImageUrl": "covers/oir_leer_escribir.gif", "publishDate": "2024-12-01" },
-    { "id": "mujeres-y-vida-cotidiana-id", "title": "Mujeres y vida cotidiana: sus experiencias a través de programas sociales.", "author": "Lucía Veronesi y Magalí Hauria", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/319", "coverImageUrl": "covers/mujeres_vida_cotidiana.gif", "publishDate": "2024-11-01" },        
-    { "id": "practicas-digitales-id", "title": "Prácticas digitales del estudiantado en la etapa final de sus carreras universitarias. Estudio exploratorio en los Centros Regionales San Miguel y Campana de la UNLu.", "author": "Rosa Cicala", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/318", "coverImageUrl": "covers/practicas_digitales_estudiantado.gif", "publishDate": "2024-10-01" },        
-    { "id": "de-la-pampa-criolla-id", "title": "De la pampa criolla a la gringa Chivilcoy entre mediados del siglo XIX y principios del XX.", "author": "Bibiana Andreucci", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/317", "coverImageUrl": "covers/de_la_pampa_criolla_-a_la_gringa_chivilcoy.gif", "publishDate": "2024-09-01" },        
-    { "id": "trabajo-de-hormiga-id", "title": "Trabajo de hormiga. Notas de Ecología, Medio Ambiente y Ciencia.", "author": "Adonis Giorgi", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/316", "coverImageUrl": "covers/trabajo_hormiga.gif", "publishDate": "2024-08-01" },        
-    { "id": "racionalidades-en-disputa-id", "title": "Racionalidades en disputa en el Trabajo Social contemporáneo. Aportes desde la razón crítico-dialéctica.", "author": "Laura Massa y Sergio Gianna", "collection": "Ciencia", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/315", "coverImageUrl": "covers/racionalidades.gif", "publishDate": "2024-07-01" },        
-    { "id": "la-construccion-sindical-en-disputa-id", "title": "La construcción sindical en disputa. Experiencias de les trabajadores de la educación en la Argentina del post-2001.", "author": "Adriana Migliavacca", "collection": "Ciencia", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/314", "coverImageUrl": "covers/la_construccion_sindical_disputa.gif", "publishDate": "2024-06-01" },        
-    { "id": "sobre-infancias-menores-id", "title": "Sobre Infancias, Menores y Niñeces. Trayectoria de las construcciones histórico-políticas de discursos y prácticas institucionales (1919-2019).", "author": "Vanesa Villeta", "collection": "Ciencia", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/313", "coverImageUrl": "covers/infancias-menores.gif", "publishDate": "2024-05-01" },        
-    { "id": "sospechas-y-hallazgos-id", "title": "De sospechas y hallazgos en la formación docente en Educación Física: un estudio sobre los saberes que produjeron los estudiantes en tiempos de covid-19.", "author": "Mariel Ruiz", "collection": "Ciencia", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/311", "coverImageUrl": "covers/de_sospechas_y_hallazgos.gif", "publishDate": "2024-04-01" },        
-    { "id": "ojotas-y-clavos-id", "title": "Ojotas y clavos.", "author": "Betina Plaza", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/310", "coverImageUrl": "covers/ojotas_clavos.gif", "publishDate": "2024-03-01" },        
-    { "id": "origenes-y-desarrollo-id", "title": "Orígenes y desarrollo del Movimiento de Reconceptualización: búsquedas en la construcción de un nuevo Proyecto Profesional en el Trabajo Social Latinoamericano.", "author": "Gustavo Parra", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/309", "coverImageUrl": "covers/origenes_y_desarrollo_movimiento.gif", "publishDate": "2024-02-01" },        
-    { "id": "la-punta-del-ovillo-id", "title": "La punta del ovillo. Reconstrucción de la memoria: proceso de organización popular en el barrio Villa Del Parque por el derecho a la vivienda.", "author": "Sonia Silvina Fontana, Lucía Klug y Fernando Gaiero", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/308", "coverImageUrl": "covers/la-punta_del_ovillo.gif", "publishDate": "2024-01-25" },        
-    { "id": "serie-optimiza-2-id", "title": "Serie Optimiza. Libro 2. Inventarios, proyectos, líneas de espera, simulación.", "author": "Alejandro Roberti, Gustavo Chijani, y Esteban Gidekel", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/307", "coverImageUrl": "covers/optimiza-2.gif", "publishDate": "2024-01-24" },        
-    { "id": "contribuciones-de-la-eugenesia-id", "title": "Contribuciones de la eugenesia, biotipología y medicina social a la intervención social.", "author": "Fernanda Maiola", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/306", "coverImageUrl": "covers/contribuciones_eugenesia_biotipologia.gif", "publishDate": "2024-01-23" },        
-    { "id": "elogio-id", "title": "ELOGIO DE LA REBELIÓN. Cine y contra información en las luchas populares (1992 - 2002)", "author": "DOCA, Documentalistas de Argentina", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/304", "coverImageUrl": "covers/elogio_de_la_rebelion.gif", "publishDate": "2023-12-01" },        
-    { "id": "gucha-id", "title": "Gucha. Raíces de mi propia vida", "author": "Esther Alicia Mileo de Sarobe", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/303", "coverImageUrl": "covers/gucha.gif", "publishDate": "2023-11-01" },        
-    { "id": "malvinas-id", "title": "Malvinas. Esta es mi historia", "author": "Fernando Mullen", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/296", "coverImageUrl": "covers/malvinas.gif", "publishDate": "2023-07-01" },        
-    { "id": "debates-sociopoliticos-id", "title": "Debates sociopolíticos sobre la formación y el trabajo docente", "author": "Silvia Andrea Vázquez y Karina Alejandra Barrera", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/295", "coverImageUrl": "covers/debates-sociopoliticos.gif", "publishDate": "2023-06-01" },        
-    { "id": "dialogos-educacion-fisica-id", "title": "Diálogos sobre Educación Física. Enfoques y debates en Argentina", "author": "Ramiro González Gaínza, Gabriela Vilariño y César Valero", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/294", "coverImageUrl": "covers/dialogos_sobre_educacion_fisica.gif", "publishDate": "2023-05-01" },        
-    { "id": "estacion-lujan-id", "title": "Estación Luján Ferrocarril Oeste. Historia y Patrimonio", "author": "María Alejandra Hernández", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/293", "coverImageUrl": "covers/estacion_lujan_ferrocarril.gif", "publishDate": "2023-04-01" },        
-    { "id": "educacion-nuevas-subjetividades-id", "title": "Educación, nuevas subjetividades y viejas contradicciones", "author": "Mariano Indart y Martín Federico", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/292", "coverImageUrl": "covers/educacion_nuevas_subjetividades.gif", "publishDate": "2023-03-01" },        
-    { "id": "residuos-solidos-urbanos-id", "title": "Residuos sólidos urbanos, basurales a cielo abierto y riesgos ambientales: aportes desde vínculos participativos en el nivel municipal", "author": "Nélida da Costa Pereira y María Cecilia Poggi", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/290", "coverImageUrl": "covers/residuos_solidos.gif", "publishDate": "2023-02-01" },        
-    { "id": "universidad-y-politicas-id", "title": "Universidad y políticas universitarias. Proyecto, creación y primeros años de la Universidad Nacional de Luján (1969-1976).", "author": "Analía Gómez", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/289", "coverImageUrl": "covers/uni-y-politicas-publicas.gif", "publishDate": "2023-01-30" },        
-    { "id": "frontera-sur-id", "title": "El espacio de la frontera sur entre los siglos XVIII y XIX. Una agenda para compartir", "author": "Andrés Aguirre, Yésica García y Eduardo Javier Iraola", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/288", "coverImageUrl": "covers/el_espacio_de_la_frontera_sur.gif", "publishDate": "2023-01-28" },        
-    { "id": "sin-recetas-id", "title": "Sin recetas. Practicando con propuestas para aulas de biología.", "author": "Maximiliano Nardelli, Fernando Gardelli, Pablo López y Adriana Mengascini", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/287", "coverImageUrl": "covers/sin-recetas.gif", "publishDate": "2023-01-27" },        
-    { "id": "alero-nestares-id", "title": "El Alero Nestares. Un Sitio de Altura en la Meseta de Corralito, Sudoeste de Río Negro.", "author": "Eduardo A. Crivelli Montero y Mariano Ramos", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/285", "coverImageUrl": "covers/el_alero_nestares.gif", "publishDate": "2023-01-26" },        
-    { "id": "ecuaciones-incognita-id", "title": "Introducción al estudio de las ecuaciones de una incógnita", "author": "Francisco Alberto Formica", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/284", "coverImageUrl": "covers/introduccion_estudio_ecuaciones.gif", "publishDate": "2023-01-25" },        
-    { "id": "higiene-y-seguridad-id", "title": "Introducción a la Higiene y Seguridad Ocupacional. Las CYMAT", "author": "Tomás A. R. Fucci", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/283", "coverImageUrl": "covers/introduccion_higiene_seguridad.gif", "publishDate": "2023-01-24" },        
-    { "id": "accesos-y-exclusiones-id", "title": "Accesos y exclusiones a la cultura escrita. Concepciones, políticas y prácticas en el sistema educativo. Siglos XIX a XXI", "author": "Teresa Laura Artieda", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/282", "coverImageUrl": "covers/accesos_exclusiones.gif", "publishDate": "2023-01-23" },        
-    { "id": "enfermeria-comunitaria-id", "title": "Análisis socio-histórico de la construcción profesional de la enfermería comunitaria en la Argentina", "author": "Paula Pochintesta (Coordinadora), Marcela Bel, Pamela Bergés, Fernanda Maiola, Laura Paradela y Martín Raggi", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/281", "coverImageUrl": "covers/analisis_socio-historico_enfermeria.gif", "publishDate": "2023-01-22" },        
-    { "id": "5-decadas-id", "title": "5 décadas en 15 películas sobre el trabajo. Escenas de subjetividades en disputa", "author": "Marcelo Hernández", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/280", "coverImageUrl": "covers/5_decadas_15.gif", "publishDate": "2022-12-01" },        
-    { "id": "palestina-id", "title": "Palestina (e Israel), entre intifadas, revoluciones y resistencias", "author": "Martín Alejandro Martinelli", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/279", "coverImageUrl": "covers/palestina.gif", "publishDate": "2022-11-01" },        
-    { "id": "libros-sujetos-y-saberes-id", "title": "Libros, sujetos y saberes. Aportes para una historia de las escenas de lectura en la Educación Argentina", "author": "Roberto Aníbal Bottarini, María Cristina Linares y Roberta Paula Spregelburd", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/278", "coverImageUrl": "covers/sujetos_y_saberes.gif", "publishDate": "2022-10-01" },        
-    { "id": "manual-derecho-ambiental-id", "title": "Manual de derecho Ambiental Internacional", "author": "Adriana N. Martínez, Adriana M. Porcelli y Clara M. Minaverry", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/277", "coverImageUrl": "covers/manual_derecho_ambiental.gif", "publishDate": "2022-09-01" },
-    { "id": "serie-optimiza-1-id", "title": "Serie Optimiza. Libro 1. programación lineal", "author": "Alejandro Roberti, Gustavo Chijani, Verónica Esaín y Esteban Gidekel", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/276", "coverImageUrl": "covers/optimiza-1.gif", "publishDate": "2022-08-01" },        
-    { "id": "tinta-bruja-id", "title": "Tinta bruja (Taller de invención escrita)", "author": "Mirta Rodríguez Peduran", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/275", "coverImageUrl": "covers/tinta-brula.gif", "publishDate": "2022-07-01" },
-    { "id": "historias-lucha-utt-id", "title": "Historias de una lucha", "author": "UTT", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/274", "coverImageUrl": "covers/historias_de_una_lucha.gif", "publishDate": "2022-06-01" },
-    { "id": "agricultura-ciencia-poder-id", "title": "Agricultura, ciencia y poder", "author": "Carla Mariela Poth", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/273", "coverImageUrl": "covers/agricultura_ciencia_poder.gif", "publishDate": "2022-06-01" },
-    { "id": "dimensiones-legales-id", "title": "Dimensiones legales de los servicios ecosistémicos en el ámbito nacional e internacional", "author": "Clara María Minaverry", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/271", "coverImageUrl": "covers/dimensiones_legales_de_los_servicios.gif", "publishDate": "2022-05-01" },
-    { "id": "materiales-didacticos-id", "title": "Materiales didácticos y manuales para la enseñanza de las lenguas extranjeras. Concepciones y prácticas", "author": "Claudia R. Pasquale y María Fabiana Luchetti", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/270", "coverImageUrl": "covers/materiales_didacticos_manuales.gif", "publishDate": "2022-04-01" },
-    { "id": "pueblos-originarios-id", "title": "¡Los pueblos originarios siempre estuvimos, solo que vos no nos veías! Los grupos indígenas en las ciudades, una realidad desconocida e invisibilizada", "author": "Dr. Alejandro Balazote, Dr. Sebastián Valverde y Dr. Juan Manuel Engelman", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/268", "coverImageUrl": "covers/pueblos_originarios.gif", "publishDate": "2022-02-01" },
-    { "id": "guerras-coloniales-id", "title": "Las Guerras Coloniales en el Tucumán: Un análisis sobre el inicio de las campañas punitivas al Chaco a fines del siglo XVII", "author": "María Luján Rosas", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/267", "coverImageUrl": "covers/las_guerras_coloniales.gif", "publishDate": "2022-01-28" },
-    { "id": "universidad-movimiento-educacion-id", "title": "Universidad, movimiento y educación: entre senderos y bordes", "author": "Norma Amalia Michi, Alvaro Javier Di Matteo y Diana Gabriela Vila", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/264", "coverImageUrl": "covers/universidad-movimientos.gif", "publishDate": "2021-12-01" },
-    { "id": "entretejiendo-miradas-id", "title": "Entretejiendo miradas. Relatos entre educadoras populares, niños y niñas", "author": "Analía García - Red Andando, Centros Comunitarios de Educación Popular", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/257", "coverImageUrl": "covers/entretejiendo_miradas.gif", "publishDate": "2020-12-01" },
-    { "id": "proteccion-juridica-id", "title": "La Protección Jurídica de la Naturaleza y el Surgimiento de Nuevas Categorías de Sujetos", "author": "Adriana N. Martínez y Adriana M. Porcelli", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/251", "coverImageUrl": "covers/proteccion-juridica.gif", "publishDate": "2020-11-01" },
-    { "id": "fisica-quimica-biologica-id", "title": "Física y química biológica", "author": "Fiorella Belforte, Jorgelina Rodríguez, Gastón Alberto Penas, Soledad Steinhardt, Landriel Caminata, Lucía Coll y Anabella Paola Currá", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/246", "coverImageUrl": "covers/fisica_quimica_biologica.gif", "publishDate": "2020-10-01" },
-    { "id": "organizacion-industrial-i-id", "title": "Organización Industrial I Estudio introductorio de las organizaciones desde el perfil del Ingeniero Industrial", "author": "Juan Andrés Perez y María Laura Risiglione", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/238", "coverImageUrl": "covers/organizacion-industrial.gif", "publishDate": "2021-10-01" },
-    { "id": "politicas-tendencias-experiencias-id", "title": "Políticas, tendencias y experiencias en la formación de docentes. Panorama actual en Argentina, Brasil, Chile y Uruguay", "author": "Susana E. Vior, M. Betania Oreja Cerruti y Claudia V. Agüero", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/236", "coverImageUrl": "covers/politicas_tendencias_experiencias.gif", "publishDate": "2021-09-01" },
-    { "id": "tito-ravelo-id", "title": "Tito Ravelo", "author": "Movimiento Campesino de Santiago del Estero (MOCASE)", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/228", "coverImageUrl": "covers/tito_ravelo.gif", "publishDate": "2020-08-01" },
-    { "id": "huellas-arena-id", "title": "Huellas en la arena", "author": "Mariano Ramos", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/226", "coverImageUrl": "covers/huellas_en_la_arena.gif", "publishDate": "2019-12-01" },
-    { "id": "analisis-espacial-id", "title": "Análisis espacial de conflictos entre usos del suelo en la cuenca del Río Luján", "author": "Noelia Principi", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/221", "coverImageUrl": "covers/analisis_espacial_de_conflictos.gif", "publishDate": "2019-11-01" },
-    { "id": "la-siempre-verde-id", "title": "La Siempre Verde: Un estudio de arqueología histórica de un “corral” de piedra en Tandilia", "author": "Ramos Mariano y Fabián Bognanni", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/220", "coverImageUrl": "covers/la_siempre_verde.gif", "publishDate": "2019-10-01" },
-    { "id": "historias-manfloras-id", "title": "Historias Manfloras", "author": "Walter Giribuela", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/219", "coverImageUrl": "covers/historias_manfloras.gif", "publishDate": "2019-09-01" },
-    { "id": "memorias-cierre-id", "title": "Universidad Nacional de Luján. Memorias de su cierre y su refundación", "author": "Enrique Fliess", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/215", "coverImageUrl": "covers/memorias-cierre.gif", "publishDate": "2019-08-01" },
-    { "id": "manejo-sitio-especifico-id", "title": "Manejo sitio específico en la agricultura", "author": "Juan Manuel Vázquez", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/213", "coverImageUrl": "covers/manejo_sitio_especifico.gif", "publishDate": "2019-07-01" },
-    { "id": "futbol-embriones-id", "title": "De fútbol, embriones y ecosistemas", "author": "Fernando Momo", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/201", "coverImageUrl": "covers/de_futbol_embriones_ecosistemas.gif", "publishDate": "2019-06-01" },
-    { "id": "abordajes-teorico-id", "title": "Abordajes teórico-metodológicos de los conflictos socioambientales", "author": "Elda Tancredi y Alejandra Valverde", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/200", "coverImageUrl": "covers/abordajes_teorico.gif", "publishDate": "2019-05-01" },
-    { "id": "emprendimiento-y-exportacion-id", "title": "Emprendimiento y exportación", "author": "Doris Marlene Olea Suárez y Sergio Gabriel Giannice", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/202", "coverImageUrl": "covers/emprendimiento_y_exportacion.gif", "publishDate": "2019-04-01" },
-    { "id": "problematicas-educacionales-id", "title": "Problemáticas educacionales en la modernidad", "author": "Claudia Figari y Adriana Migliovacca", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/198", "coverImageUrl": "covers/problematicas-educacionales.gif", "publishDate": "2019-03-01" },
-    { "id": "escuelas-populares-id", "title": "Escuelas Populares", "author": "Silvia Brusilovsky", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/177", "coverImageUrl": "covers/escuelas_populares.gif", "publishDate": "2018-11-01" },
-    { "id": "abriendo-caminos-id", "title": "Abriendo Caminos", "author": "Emiliano Cucciufo, Javier Di Matteo y Mariana Colombo", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/176", "coverImageUrl": "covers/abriendo_caminos.gif", "publishDate": "2018-10-01" },
-    { "id": "memoria-de-la-mirada-id", "title": "Memoria de la mirada", "author": "Cruder Gabriela", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/156", "coverImageUrl": "covers/memoria_de_la_mirada.gif", "publishDate": "2018-09-01" },
-    { "id": "genero-saberes-id", "title": "Género, saberes y labores de las sociedades indígenas pampeano - patagónicas", "author": "Mabel M. Fernández", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/159", "coverImageUrl": "covers/genero_saberes_labores.gif", "publishDate": "2018-08-01" },
-    { "id": "entre-voces-id", "title": "Entre voces, experiencias de formación en comunidad de docentes lectores", "author": "Galaburri, María L.", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/158", "coverImageUrl": "covers/entre_voces.gif", "publishDate": "2018-07-01" },
-    { "id": "disposiciones-generales-id", "title": "Disposiciones generales de derecho internacional privado", "author": "Porcelli, Adriana M.", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/157", "coverImageUrl": "covers/disposiciones_generales_de_derecho.gif", "publishDate": "2018-06-01" },
-    { "id": "el-interes-superior-id", "title": "El interés superior del niño", "author": "Insaurralde, Mariana", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/155", "coverImageUrl": "covers/el_interes_superior_nino.gif", "publishDate": "2018-05-01" },
-    { "id": "lengua-extranjera-id", "title": "Lectocomprensión en lengua extranjera", "author": "Diana Rosenfeld, Rosa Sánchez, Lidia Lacota y Analía Falchi", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/154", "coverImageUrl": "covers/lectocomprension.gif", "publishDate": "2018-04-01" },
-    { "id": "eros-tanatos-id", "title": "Eros y Tánatos", "author": "Capelli, María Claudia Sara", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/153", "coverImageUrl": "covers/eros_y_tanatos.gif", "publishDate": "2018-03-01" },
-    { "id": "hongos-de-la-reserva-id", "title": "Hongos de la reserva forestal Los Robles. Partido de Moreno, Buenos Aires", "author": "Adonis Giorgi y Beatriz González", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/151", "coverImageUrl": "covers/hongos-los-robles.gif", "publishDate": "2018-01-28" },
-    { "id": "antologia-id", "title": "Antología, encuentros literarios", "author": " Ángeles Bartolomé, Rubén Orlando González, Graciela Cristina Lavazza (Kahla), Antonino Enrique Martínez, Marta Ofelia Ramírez, Mabel Alicia Ramos, Cristina Retamozo y José María Scarnato", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/144", "coverImageUrl": "covers/antologia_encuentros-literarios.gif", "publishDate": "2018-01-27" },
-    { "id": "mocase-id", "title": "Memorias de los Orígenes de la Central Campesina de Pinto", "author": "Movimiento Campesino de Santiago del Estero - Vía Campesina (MoCaSE)", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/162", "coverImageUrl": "covers/memorias_origenes_de_pinto.gif", "publishDate": "2018-01-26" },
-    { "id": "buenas-practicas-id", "title": "Buenas prácticas en producciones horti-florícolas en áreas periurbanas", "author": "Mariana Garbi", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/141", "coverImageUrl": "covers/buenas_practicas_horti-floricolas.gif", "publishDate": "2018-01-25" },
-    { "id": "marcas-del-higienismo-id", "title": "Marcas del higienismo en el Trabajo Social", "author": "Roberta Paula Spregelburd y María Cristina Linares", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/139", "coverImageUrl": "covers/marcas_del_higienismo.gif", "publishDate": "2018-01-24" },
-    { "id": "educacion-politicas-id", "title": "Educación, políticas públicas y hegemonía", "author": "Mariano Indart", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/104", "coverImageUrl": "covers/educacion_politicas_publicas_hegemonia.gif", "publishDate": "2018-01-23" },
-    { "id": "introduccion-psicologia-id", "title": "Introducción a las teorías psicológicas", "author": "Cristina Norma Grinspon", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/103", "coverImageUrl": "covers/introduccion_teorias_psicologicas.gif", "publishDate": "2017-12-01" },
-    { "id": "trazabilidad-id", "title": "Trazabilidad en la cadena de producción de pollos para carne", "author": "Marcela A. Vázquez", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/102", "coverImageUrl": "covers/trazabilidad.gif", "publishDate": "2017-11-01" },
-    { "id": "apuntes-de-historia-id", "title": "Apuntes de historia y política del nivel inicial", "author": "Noemí Alicia Simon, Rosana Elizabeth Ponce y Ana Matilde Encabo", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/94", "coverImageUrl": "covers/apuntes_de_historia_y_politica_del_nivel_inicial.gif", "publishDate": "2017-10-01" },
-    { "id": "la-demolicion-de-derechos-id", "title": "La demolición de derechos: un examen de las políticas del Banco Mundial para la educación y la salud 1980-2013", "author": "João Márcio Mendes Pereira y Marcela A. Pronko", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/89", "coverImageUrl": "covers/la_demolicion_derechos.gif", "publishDate": "2016-12-01" },
-    { "id": "manejo-sistema-agropecuario-id", "title": "Manejo del sistema agropecuario", "author": "Juan Martín Gueçaimburu, Veronica Rojo, Gisela Reposo, Juan Manuel Vázquez y Maximiliano Martínez", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/84", "coverImageUrl": "covers/manejo_sistema_agropecuario.gif", "publishDate": "2016-11-01" },
-    { "id": "analisis-espacial-id", "title": "Geografía y Análisis Espacial - Aplicaciones urbano-regionales con sistemas de información geográfica", "author": "Gustavo D. Buzai, Claudia A. Baxendale, Luis Humacata, Graciela Cacace, Hugo Delfino, Sonia L.Lanzelotti y Noelia Principi", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/81", "coverImageUrl": "covers/geografia_analisis_espacial.gif", "publishDate": "2016-10-01" },
-    { "id": "raimundo-gomez-id", "title": "Raimundo Gómez, caminante de los montes", "author": "Movimiento Campesino de Santiago del Estero - Vía Campesina (MoCaSE)", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/80", "coverImageUrl": "covers/raimundo_gomez.gif", "publishDate": "2016-09-01" },
-    { "id": "ingreso-universitario-id", "title": "Ingreso universitario. Políticas y estrategias para la inclusión: nuevas complejidades, nuevas respuestas", "author": "María Adelaida Benvegnu", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/70", "coverImageUrl": "covers/ingreso_universitario.gif", "publishDate": "2015-12-01" },
-    { "id": "geografias-de-la-explotacion-id", "title": "Geografías de la explotación de recursos naturales en la argentina del siglo XXI", "author": "Graciela Patricia Cacace, Mariela Paula Dubravka, Susana Beatríz Fratini, María Esther Gómez, Jorge Osvaldo Morina y Graciela Emilse Suevo.", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/61", "coverImageUrl": "covers/geografias_explotacion.gif", "publishDate": "2016-07-01" },
-    { "id": "manual-hortalizas-id", "title": "Manual de producción de hortalizas asiáticas", "author": "Mariana Garbi,Miguel Angel Sangiacomo,Analía Puerta y Martín Nakama", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/60", "coverImageUrl": "covers/hortalizas-asiaticas.gif", "publishDate": "2016-06-01" },
-    { "id": "guerra-y-gobierno-local-id", "title": "Guerra y gobierno local en el espacio rioplatense (1764-1820)", "author": "María E. Barral y Raúl O. Fradkin", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/59", "coverImageUrl": "covers/guerra_gobierno.gif", "publishDate": "2016-05-01" },
-    { "id": "evaluacion-calidad-id", "title": "Evaluación, calidad y escuela secundaria. En la ciudad de Buenos Aires (1992-2013)", "author": "Susana E. Vior, Laura R. Rodríguez y Stella Maris Más Rocha", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/58", "coverImageUrl": "covers/evaluacion_calidad.gif", "publishDate": "2016-04-01" },
-    { "id": "memoria-origenes-id", "title": "Memoria de los Orígenes de La Central Campesina de Productores del Norte", "author": "Movimiento Campesino de Santiago del Estero - Vía Campesina (MoCaSE)", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/57", "coverImageUrl": "covers/memorias_origenes_de_norte.gif", "publishDate": "2016-03-01" },
-    { "id": "dinamica-demografica-id", "title": "Dinámica demográfica de la niñez y la adolescencia en la Argentina", "author": "Luis Pablo Dmitruk, Julieta López y Sofía Muhafra", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/56", "coverImageUrl": "covers/dinamica-demografia.gif", "publishDate": "2015-12-01" },
-	{"id":"estrategias-para-el-mejoramiento","title":"Estrategias para el mejoramiento y consolidación de la gestión pública del turismo: una nueva visita a conceptos clave para un desarrollo sostenido y sustentable a escala local","author":"Elda Tancredi y Fernanda González Maraschio","collection":"Sociedad en movimiento","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/331","coverImageUrl":"covers/estrategias-turismo.gif","publishDate":"2025-07-01"},
-	{"id":"jornadas-argentinas-de-geotecnologa-2015-tecnologas-de-la-informacin-para-nuevas-formas-de-gestin-del-territorio","title":"JORNADAS ARGENTINAS DE GEOTECNOLOGÍA 2015. TECNOLOGÍAS DE LA INFORMACIÓN PARA NUEVAS FORMAS DE GESTIÓN DEL TERRITORIO","author":"María Cristina Serafini","collection":"","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/25","coverImageUrl":"covers/jornadas-geo.gif","publishDate":"2015-01-01"},
-	{"id":"el-caso-de-la-estancia-los-talas-lujn-provincia-de-buenos-aires-argentina-aportes-documentales-y-metodolgicos-para-la-valorizacin-del-patrimonio-cultural","title":"El caso de la estancia Los Talas: Luján, Provincia de Buenos Aires, Argentina : aportes documentales y metodológicos para la valorización del patrimonio cultural","author":"Mónica Fernández","collection":"Sociedad en movimiento","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/336","coverImageUrl":"covers/los-talas.jpg","publishDate":"2025-10-02"},
-	{"id":"ese-fantasma-llamado-malvinas","title":"Ese fantasma llamado Malvinas","author":"Roberto Dalmazzo","collection":"Sociedad en movimiento","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/338","coverImageUrl":"covers/ese_fantasma_llamado_malvinas.gif","publishDate":"2025-10-07"},
-	{"id":"a-orillas-del-cuento-taller-de-escritura-creativa","title":"A orillas del cuento. Taller de Escritura Creativa","author":"Paula Gutiérrez","collection":"","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/339","coverImageUrl":"covers/a_orillas_del_cuento.gif","publishDate":"2025-10-07"},
-    {"id":"relatos-de-un-viajero-apasionado","title":"Relatos de un viajero apasionado","author":"Mario Sergio Tierno","collection":"Sociedad en movimiento","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/337","coverImageUrl":"covers/relatos_de_un_viajero.gif","publishDate":"2025-10-07"},
-    {"id":"pensar-la-intervencin-profesional-una-mirada-desde-el-trabajo-social","title":"Pensar la intervención profesional. Una mirada desde el Trabajo Social","author":"Walter Giribuela","collection":"Ciencias","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/340","coverImageUrl":"covers/pensar_la_intervencion.gif","publishDate":"2025-12-12"},
-	{"id":"fray-manuel-y-los-gigantes","title":"Fray Manuel y los gigantes","author":"Mariángeles Arnaiz","collection":"Sociedad en movimiento","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/342","coverImageUrl":"covers/Fray manuel.gif","publishDate":"2026-02-23"},
-{"id":"serie-optimiza-libro-3-modelos-simulacin-y-teora-de-la-decisin","title":"Serie Optimiza. Libro 3. Modelos, simulación y teoría de la decisión","author":"Ing. Alejandro Roberti, Ing. Gustavo Chijani, Ing. Esteban Gidekel","collection":"Aulas","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/341","coverImageUrl":"covers/optimiza-3.gif","publishDate":"2026-02-23"},
-	{"id":"lumpen-libertario","title":"Lumpen Libertario","author":"Matías Artese","collection":"Ciencias","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/343","coverImageUrl":"covers/lumpen_libertario.gif","publishDate":"2026-02-24"}
+    {
+        "id": "agendas-de-ordenamiento-ambiental-id",
+        "title": "Agendas de ordenamiento ambiental",
+        "author": "Nélida da Costa Pereira y María Cecilia Poggi",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/174/",
+        "coverImageUrl": "covers/agendas-ordenamiento.gif",
+        "publishDate": "2019-02-10"
+    },
+    {
+        "id": "agricultura-familiar-id",
+        "title": "La agricultura familiar entre lo rural y lo urbano",
+        "author": "González Maraschio Fernanda y Villarreal Federico",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/233",
+        "coverImageUrl": "covers/agricultura_familiar.gif",
+        "publishDate": "2020-06-10"
+    },
+    {
+        "id": "aportes-para-las-renovaciones-id",
+        "title": "Aportes para las renovaciones temáticas, conceptuales y didácticas de la Geografía escolar",
+        "author": "Viviana Zenobi y Adriana B. Villa",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/299",
+        "coverImageUrl": "covers/aportes_geografia.gif",
+        "publishDate": "2023-08-10"
+    },
+    {
+        "id": "guia-ilustrada-id",
+        "title": "Guía ilustrada de daños ocasionados por la ardilla de vientre rojo en Argentina",
+        "author": "Mariela Borgnia, Paula Pedreira, Verónica Benitez, Agustina Darget y M. Laura Guichón",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/300",
+        "coverImageUrl": "covers/ardillas.gif",
+        "publishDate": "2023-09-01"
+    },
+    {
+        "id": "el-campo-pedagogico-moderno-id",
+        "title": "El campo pedagógico moderno en la formación de trabajadores y ciudadanos",
+        "author": "Claudia Figari, Marcelo Hernández, Adriana Migliavacca y Gabriela Vilariño",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/93",
+        "coverImageUrl": "covers/campo-pedagogico.gif",
+        "publishDate": "2017-09-01"
+    },
+    {
+        "id": "claroscuros-id",
+        "title": "Claroscuros",
+        "author": "Cristian Avaca",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/78",
+        "coverImageUrl": "covers/claro-oscuro.gif",
+        "publishDate": "2016-08-01"
+    },
+    {
+        "id": "el-control-de-la-lectura-id",
+        "title": "El control de la lectura",
+        "author": "Roberta Paula Spregelburd y María Cristina Linares",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/105",
+        "coverImageUrl": "covers/control_de_la_lectura.gif",
+        "publishDate": "2017-11-01"
+    },
+    {
+        "id": "estudios-cuenca-rio-lujan-id",
+        "title": "Estudios de la Cuenca del Río Luján: Distintas miradas desde la Universidad Nacional de Luján",
+        "author": "Elena Craig",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/291",
+        "coverImageUrl": "covers/cuenca_rio_lujan.gif",
+        "publishDate": "2023-02-01"
+    },
+    {
+        "id": "educacion-fisica-y-tic-id",
+        "title": "Educación Física y TIC. Uso y conocimiento en Proyectos Pedagógicos situados en la Escuela Secundaria de la Provincia de Buenos Aires",
+        "author": "Mariel Ruiz y Silvina Casablancas",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/322",
+        "coverImageUrl": "covers/edu_fisica_tic.gif",
+        "publishDate": "2025-04-01"
+    },
+    {
+        "id": "ensayos-para-pensar-id",
+        "title": "Ensayos para pensar experiencias escolares. Educación y educación física",
+        "author": "Graziano, Andrea Magdalena",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/152",
+        "coverImageUrl": "covers/ensayos-para-pensar.gif",
+        "publishDate": "2018-02-10"
+    },
+    {
+        "id": "entrelineas-id",
+        "title": "Entrelíneas",
+        "author": "Cristian Avaca",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/178",
+        "coverImageUrl": "covers/entrelineas.gif",
+        "publishDate": "2018-12-01"
+    },
+    {
+        "id": "esas-cosas-que-se-saben-id",
+        "title": "Esas cosas que se saben",
+        "author": "Marcos Tabossi",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/269",
+        "coverImageUrl": "covers/esas_cosas.gif",
+        "publishDate": "2022-03-10"
+    },
+    {
+        "id": "especies-invernales-id",
+        "title": "Especies Invernales utilizadas como Verdeos de Invierno. Generalidades y datos de producción para la zona de influencia de la UNLu",
+        "author": "Adriana Fernanda Spara y Eduardo Vernengo",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/302",
+        "coverImageUrl": "covers/especies_invernales.gif",
+        "publishDate": "2023-10-01"
+    },
+    {
+        "id": "fundamentos-de-ambiente-id",
+        "title": "Fundamentos de ecología y ambiente",
+        "author": "Leonardo Malacalza, Fernando R. Momo y Carlos E. Coviella",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/123",
+        "coverImageUrl": "covers/fundamentos-ecologia.gif",
+        "publishDate": "2017-12-01"
+    },
+    {
+        "id": "genetica-aplicada-id",
+        "title": "Genética aplicada a la producción avícola: especialización en producción avícola.",
+        "author": "Melo, Julián E.",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/323",
+        "coverImageUrl": "covers/genetica_aplicada.gif",
+        "publishDate": "2025-05-01"
+    },
+    {
+        "id": "formar-lideres-id",
+        "title": "Formar líderes y salvar a los jóvenes. Claves para comprender la cultura escolar del Instituto Nacional de Educación Física General Belgrano.",
+        "author": "Ángela Aisenstein, María Andrea Feiguin, María Dolores Martínez, Mercedes del Pilar Cobiella, Ignacio Melano, Leandro Elias y Manuel Ignacio Moreno",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/321",
+        "coverImageUrl": "covers/formar_lideres_salvar_jovenes.gif",
+        "publishDate": "2025-03-01"
+    },
+    {
+        "id": "oir-leer-escribir-id",
+        "title": "Oir, leer, escribir. La cultura escrita entre la Colonia y la Independencia desde la Historia Social de la Educación.",
+        "author": " María Cristina Linares",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/320",
+        "coverImageUrl": "covers/oir_leer_escribir.gif",
+        "publishDate": "2024-12-01"
+    },
+    {
+        "id": "mujeres-y-vida-cotidiana-id",
+        "title": "Mujeres y vida cotidiana: sus experiencias a través de programas sociales.",
+        "author": "Lucía Veronesi y Magalí Hauria",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/319",
+        "coverImageUrl": "covers/mujeres_vida_cotidiana.gif",
+        "publishDate": "2024-11-01"
+    },
+    {
+        "id": "practicas-digitales-id",
+        "title": "Prácticas digitales del estudiantado en la etapa final de sus carreras universitarias. Estudio exploratorio en los Centros Regionales San Miguel y Campana de la UNLu.",
+        "author": "Rosa Cicala",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/318",
+        "coverImageUrl": "covers/practicas_digitales_estudiantado.gif",
+        "publishDate": "2024-10-01"
+    },
+    {
+        "id": "de-la-pampa-criolla-id",
+        "title": "De la pampa criolla a la gringa Chivilcoy entre mediados del siglo XIX y principios del XX.",
+        "author": "Bibiana Andreucci",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/317",
+        "coverImageUrl": "covers/de_la_pampa_criolla_-a_la_gringa_chivilcoy.gif",
+        "publishDate": "2024-09-01"
+    },
+    {
+        "id": "trabajo-de-hormiga-id",
+        "title": "Trabajo de hormiga. Notas de Ecología, Medio Ambiente y Ciencia.",
+        "author": "Adonis Giorgi",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/316",
+        "coverImageUrl": "covers/trabajo_hormiga.gif",
+        "publishDate": "2024-08-01"
+    },
+    {
+        "id": "racionalidades-en-disputa-id",
+        "title": "Racionalidades en disputa en el Trabajo Social contemporáneo. Aportes desde la razón crítico-dialéctica.",
+        "author": "Laura Massa y Sergio Gianna",
+        "collection": "Ciencia",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/315",
+        "coverImageUrl": "covers/racionalidades.gif",
+        "publishDate": "2024-07-01"
+    },
+    {
+        "id": "la-construccion-sindical-en-disputa-id",
+        "title": "La construcción sindical en disputa. Experiencias de les trabajadores de la educación en la Argentina del post-2001.",
+        "author": "Adriana Migliavacca",
+        "collection": "Ciencia",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/314",
+        "coverImageUrl": "covers/la_construccion_sindical_disputa.gif",
+        "publishDate": "2024-06-01"
+    },
+    {
+        "id": "sobre-infancias-menores-id",
+        "title": "Sobre Infancias, Menores y Niñeces. Trayectoria de las construcciones histórico-políticas de discursos y prácticas institucionales (1919-2019).",
+        "author": "Vanesa Villeta",
+        "collection": "Ciencia",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/313",
+        "coverImageUrl": "covers/infancias-menores.gif",
+        "publishDate": "2024-05-01"
+    },
+    {
+        "id": "sospechas-y-hallazgos-id",
+        "title": "De sospechas y hallazgos en la formación docente en Educación Física: un estudio sobre los saberes que produjeron los estudiantes en tiempos de covid-19.",
+        "author": "Mariel Ruiz",
+        "collection": "Ciencia",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/311",
+        "coverImageUrl": "covers/de_sospechas_y_hallazgos.gif",
+        "publishDate": "2024-04-01"
+    },
+    {
+        "id": "ojotas-y-clavos-id",
+        "title": "Ojotas y clavos.",
+        "author": "Betina Plaza",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/310",
+        "coverImageUrl": "covers/ojotas_clavos.gif",
+        "publishDate": "2024-03-01"
+    },
+    {
+        "id": "origenes-y-desarrollo-id",
+        "title": "Orígenes y desarrollo del Movimiento de Reconceptualización: búsquedas en la construcción de un nuevo Proyecto Profesional en el Trabajo Social Latinoamericano.",
+        "author": "Gustavo Parra",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/309",
+        "coverImageUrl": "covers/origenes_y_desarrollo_movimiento.gif",
+        "publishDate": "2024-02-01"
+    },
+    {
+        "id": "la-punta-del-ovillo-id",
+        "title": "La punta del ovillo. Reconstrucción de la memoria: proceso de organización popular en el barrio Villa Del Parque por el derecho a la vivienda.",
+        "author": "Sonia Silvina Fontana, Lucía Klug y Fernando Gaiero",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/308",
+        "coverImageUrl": "covers/la-punta_del_ovillo.gif",
+        "publishDate": "2024-01-25"
+    },
+    {
+        "id": "serie-optimiza-2-id",
+        "title": "Serie Optimiza. Libro 2. Inventarios, proyectos, líneas de espera, simulación.",
+        "author": "Alejandro Roberti, Gustavo Chijani, y Esteban Gidekel",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/307",
+        "coverImageUrl": "covers/optimiza-2.gif",
+        "publishDate": "2024-01-24"
+    },
+    {
+        "id": "contribuciones-de-la-eugenesia-id",
+        "title": "Contribuciones de la eugenesia, biotipología y medicina social a la intervención social.",
+        "author": "Fernanda Maiola",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/306",
+        "coverImageUrl": "covers/contribuciones_eugenesia_biotipologia.gif",
+        "publishDate": "2024-01-23"
+    },
+    {
+        "id": "elogio-id",
+        "title": "ELOGIO DE LA REBELIÓN. Cine y contra información en las luchas populares (1992 - 2002)",
+        "author": "DOCA, Documentalistas de Argentina",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/304",
+        "coverImageUrl": "covers/elogio_de_la_rebelion.gif",
+        "publishDate": "2023-12-01"
+    },
+    {
+        "id": "gucha-id",
+        "title": "Gucha. Raíces de mi propia vida",
+        "author": "Esther Alicia Mileo de Sarobe",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/303",
+        "coverImageUrl": "covers/gucha.gif",
+        "publishDate": "2023-11-01"
+    },
+    {
+        "id": "malvinas-id",
+        "title": "Malvinas. Esta es mi historia",
+        "author": "Fernando Mullen",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/296",
+        "coverImageUrl": "covers/malvinas.gif",
+        "publishDate": "2023-07-01"
+    },
+    {
+        "id": "debates-sociopoliticos-id",
+        "title": "Debates sociopolíticos sobre la formación y el trabajo docente",
+        "author": "Silvia Andrea Vázquez y Karina Alejandra Barrera",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/295",
+        "coverImageUrl": "covers/debates-sociopoliticos.gif",
+        "publishDate": "2023-06-01"
+    },
+    {
+        "id": "dialogos-educacion-fisica-id",
+        "title": "Diálogos sobre Educación Física. Enfoques y debates en Argentina",
+        "author": "Ramiro González Gaínza, Gabriela Vilariño y César Valero",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/294",
+        "coverImageUrl": "covers/dialogos_sobre_educacion_fisica.gif",
+        "publishDate": "2023-05-01"
+    },
+    {
+        "id": "estacion-lujan-id",
+        "title": "Estación Luján Ferrocarril Oeste. Historia y Patrimonio",
+        "author": "María Alejandra Hernández",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/293",
+        "coverImageUrl": "covers/estacion_lujan_ferrocarril.gif",
+        "publishDate": "2023-04-01"
+    },
+    {
+        "id": "educacion-nuevas-subjetividades-id",
+        "title": "Educación, nuevas subjetividades y viejas contradicciones",
+        "author": "Mariano Indart y Martín Federico",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/292",
+        "coverImageUrl": "covers/educacion_nuevas_subjetividades.gif",
+        "publishDate": "2023-03-01"
+    },
+    {
+        "id": "residuos-solidos-urbanos-id",
+        "title": "Residuos sólidos urbanos, basurales a cielo abierto y riesgos ambientales: aportes desde vínculos participativos en el nivel municipal",
+        "author": "Nélida da Costa Pereira y María Cecilia Poggi",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/290",
+        "coverImageUrl": "covers/residuos_solidos.gif",
+        "publishDate": "2023-02-01"
+    },
+    {
+        "id": "universidad-y-politicas-id",
+        "title": "Universidad y políticas universitarias. Proyecto, creación y primeros años de la Universidad Nacional de Luján (1969-1976).",
+        "author": "Analía Gómez",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/289",
+        "coverImageUrl": "covers/uni-y-politicas-publicas.gif",
+        "publishDate": "2023-01-30"
+    },
+    {
+        "id": "frontera-sur-id",
+        "title": "El espacio de la frontera sur entre los siglos XVIII y XIX. Una agenda para compartir",
+        "author": "Andrés Aguirre, Yésica García y Eduardo Javier Iraola",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/288",
+        "coverImageUrl": "covers/el_espacio_de_la_frontera_sur.gif",
+        "publishDate": "2023-01-28"
+    },
+    {
+        "id": "sin-recetas-id",
+        "title": "Sin recetas. Practicando con propuestas para aulas de biología.",
+        "author": "Maximiliano Nardelli, Fernando Gardelli, Pablo López y Adriana Mengascini",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/287",
+        "coverImageUrl": "covers/sin-recetas.gif",
+        "publishDate": "2023-01-27"
+    },
+    {
+        "id": "alero-nestares-id",
+        "title": "El Alero Nestares. Un Sitio de Altura en la Meseta de Corralito, Sudoeste de Río Negro.",
+        "author": "Eduardo A. Crivelli Montero y Mariano Ramos",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/285",
+        "coverImageUrl": "covers/el_alero_nestares.gif",
+        "publishDate": "2023-01-26"
+    },
+    {
+        "id": "ecuaciones-incognita-id",
+        "title": "Introducción al estudio de las ecuaciones de una incógnita",
+        "author": "Francisco Alberto Formica",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/284",
+        "coverImageUrl": "covers/introduccion_estudio_ecuaciones.gif",
+        "publishDate": "2023-01-25"
+    },
+    {
+        "id": "higiene-y-seguridad-id",
+        "title": "Introducción a la Higiene y Seguridad Ocupacional. Las CYMAT",
+        "author": "Tomás A. R. Fucci",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/283",
+        "coverImageUrl": "covers/introduccion_higiene_seguridad.gif",
+        "publishDate": "2023-01-24"
+    },
+    {
+        "id": "accesos-y-exclusiones-id",
+        "title": "Accesos y exclusiones a la cultura escrita. Concepciones, políticas y prácticas en el sistema educativo. Siglos XIX a XXI",
+        "author": "Teresa Laura Artieda",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/282",
+        "coverImageUrl": "covers/accesos_exclusiones.gif",
+        "publishDate": "2023-01-23"
+    },
+    {
+        "id": "enfermeria-comunitaria-id",
+        "title": "Análisis socio-histórico de la construcción profesional de la enfermería comunitaria en la Argentina",
+        "author": "Paula Pochintesta (Coordinadora), Marcela Bel, Pamela Bergés, Fernanda Maiola, Laura Paradela y Martín Raggi",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/281",
+        "coverImageUrl": "covers/analisis_socio-historico_enfermeria.gif",
+        "publishDate": "2023-01-22"
+    },
+    {
+        "id": "5-decadas-id",
+        "title": "5 décadas en 15 películas sobre el trabajo. Escenas de subjetividades en disputa",
+        "author": "Marcelo Hernández",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/280",
+        "coverImageUrl": "covers/5_decadas_15.gif",
+        "publishDate": "2022-12-01"
+    },
+    {
+        "id": "palestina-id",
+        "title": "Palestina (e Israel), entre intifadas, revoluciones y resistencias",
+        "author": "Martín Alejandro Martinelli",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/279",
+        "coverImageUrl": "covers/palestina.gif",
+        "publishDate": "2022-11-01"
+    },
+    {
+        "id": "libros-sujetos-y-saberes-id",
+        "title": "Libros, sujetos y saberes. Aportes para una historia de las escenas de lectura en la Educación Argentina",
+        "author": "Roberto Aníbal Bottarini, María Cristina Linares y Roberta Paula Spregelburd",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/278",
+        "coverImageUrl": "covers/sujetos_y_saberes.gif",
+        "publishDate": "2022-10-01"
+    },
+    {
+        "id": "manual-derecho-ambiental-id",
+        "title": "Manual de derecho Ambiental Internacional",
+        "author": "Adriana N. Martínez, Adriana M. Porcelli y Clara M. Minaverry",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/277",
+        "coverImageUrl": "covers/manual_derecho_ambiental.gif",
+        "publishDate": "2022-09-01"
+    },
+    {
+        "id": "serie-optimiza-1-id",
+        "title": "Serie Optimiza. Libro 1. programación lineal",
+        "author": "Alejandro Roberti, Gustavo Chijani, Verónica Esaín y Esteban Gidekel",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/276",
+        "coverImageUrl": "covers/optimiza-1.gif",
+        "publishDate": "2022-08-01"
+    },
+    {
+        "id": "tinta-bruja-id",
+        "title": "Tinta bruja (Taller de invención escrita)",
+        "author": "Mirta Rodríguez Peduran",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/275",
+        "coverImageUrl": "covers/tinta-brula.gif",
+        "publishDate": "2022-07-01"
+    },
+    {
+        "id": "historias-lucha-utt-id",
+        "title": "Historias de una lucha",
+        "author": "UTT",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/274",
+        "coverImageUrl": "covers/historias_de_una_lucha.gif",
+        "publishDate": "2022-06-01"
+    },
+    {
+        "id": "agricultura-ciencia-poder-id",
+        "title": "Agricultura, ciencia y poder",
+        "author": "Carla Mariela Poth",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/273",
+        "coverImageUrl": "covers/agricultura_ciencia_poder.gif",
+        "publishDate": "2022-06-01"
+    },
+    {
+        "id": "dimensiones-legales-id",
+        "title": "Dimensiones legales de los servicios ecosistémicos en el ámbito nacional e internacional",
+        "author": "Clara María Minaverry",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/271",
+        "coverImageUrl": "covers/dimensiones_legales_de_los_servicios.gif",
+        "publishDate": "2022-05-01"
+    },
+    {
+        "id": "materiales-didacticos-id",
+        "title": "Materiales didácticos y manuales para la enseñanza de las lenguas extranjeras. Concepciones y prácticas",
+        "author": "Claudia R. Pasquale y María Fabiana Luchetti",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/270",
+        "coverImageUrl": "covers/materiales_didacticos_manuales.gif",
+        "publishDate": "2022-04-01"
+    },
+    {
+        "id": "pueblos-originarios-id",
+        "title": "¡Los pueblos originarios siempre estuvimos, solo que vos no nos veías! Los grupos indígenas en las ciudades, una realidad desconocida e invisibilizada",
+        "author": "Dr. Alejandro Balazote, Dr. Sebastián Valverde y Dr. Juan Manuel Engelman",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/268",
+        "coverImageUrl": "covers/pueblos_originarios.gif",
+        "publishDate": "2022-02-01"
+    },
+    {
+        "id": "guerras-coloniales-id",
+        "title": "Las Guerras Coloniales en el Tucumán: Un análisis sobre el inicio de las campañas punitivas al Chaco a fines del siglo XVII",
+        "author": "María Luján Rosas",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/267",
+        "coverImageUrl": "covers/las_guerras_coloniales.gif",
+        "publishDate": "2022-01-28"
+    },
+    {
+        "id": "universidad-movimiento-educacion-id",
+        "title": "Universidad, movimiento y educación: entre senderos y bordes",
+        "author": "Norma Amalia Michi, Alvaro Javier Di Matteo y Diana Gabriela Vila",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/264",
+        "coverImageUrl": "covers/universidad-movimientos.gif",
+        "publishDate": "2021-12-01"
+    },
+    {
+        "id": "entretejiendo-miradas-id",
+        "title": "Entretejiendo miradas. Relatos entre educadoras populares, niños y niñas",
+        "author": "Analía García - Red Andando, Centros Comunitarios de Educación Popular",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/257",
+        "coverImageUrl": "covers/entretejiendo_miradas.gif",
+        "publishDate": "2020-12-01"
+    },
+    {
+        "id": "proteccion-juridica-id",
+        "title": "La Protección Jurídica de la Naturaleza y el Surgimiento de Nuevas Categorías de Sujetos",
+        "author": "Adriana N. Martínez y Adriana M. Porcelli",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/251",
+        "coverImageUrl": "covers/proteccion-juridica.gif",
+        "publishDate": "2020-11-01"
+    },
+    {
+        "id": "fisica-quimica-biologica-id",
+        "title": "Física y química biológica",
+        "author": "Fiorella Belforte, Jorgelina Rodríguez, Gastón Alberto Penas, Soledad Steinhardt, Landriel Caminata, Lucía Coll y Anabella Paola Currá",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/246",
+        "coverImageUrl": "covers/fisica_quimica_biologica.gif",
+        "publishDate": "2020-10-01"
+    },
+    {
+        "id": "organizacion-industrial-i-id",
+        "title": "Organización Industrial I Estudio introductorio de las organizaciones desde el perfil del Ingeniero Industrial",
+        "author": "Juan Andrés Perez y María Laura Risiglione",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/238",
+        "coverImageUrl": "covers/organizacion-industrial.gif",
+        "publishDate": "2021-10-01"
+    },
+    {
+        "id": "politicas-tendencias-experiencias-id",
+        "title": "Políticas, tendencias y experiencias en la formación de docentes. Panorama actual en Argentina, Brasil, Chile y Uruguay",
+        "author": "Susana E. Vior, M. Betania Oreja Cerruti y Claudia V. Agüero",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/236",
+        "coverImageUrl": "covers/politicas_tendencias_experiencias.gif",
+        "publishDate": "2021-09-01"
+    },
+    {
+        "id": "tito-ravelo-id",
+        "title": "Tito Ravelo",
+        "author": "Movimiento Campesino de Santiago del Estero (MOCASE)",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/228",
+        "coverImageUrl": "covers/tito_ravelo.gif",
+        "publishDate": "2020-08-01"
+    },
+    {
+        "id": "huellas-arena-id",
+        "title": "Huellas en la arena",
+        "author": "Mariano Ramos",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/226",
+        "coverImageUrl": "covers/huellas_en_la_arena.gif",
+        "publishDate": "2019-12-01"
+    },
+    {
+        "id": "analisis-espacial-id",
+        "title": "Análisis espacial de conflictos entre usos del suelo en la cuenca del Río Luján",
+        "author": "Noelia Principi",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/221",
+        "coverImageUrl": "covers/analisis_espacial_de_conflictos.gif",
+        "publishDate": "2019-11-01"
+    },
+    {
+        "id": "la-siempre-verde-id",
+        "title": "La Siempre Verde: Un estudio de arqueología histórica de un “corral” de piedra en Tandilia",
+        "author": "Ramos Mariano y Fabián Bognanni",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/220",
+        "coverImageUrl": "covers/la_siempre_verde.gif",
+        "publishDate": "2019-10-01"
+    },
+    {
+        "id": "historias-manfloras-id",
+        "title": "Historias Manfloras",
+        "author": "Walter Giribuela",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/219",
+        "coverImageUrl": "covers/historias_manfloras.gif",
+        "publishDate": "2019-09-01"
+    },
+    {
+        "id": "memorias-cierre-id",
+        "title": "Universidad Nacional de Luján. Memorias de su cierre y su refundación",
+        "author": "Enrique Fliess",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/215",
+        "coverImageUrl": "covers/memorias-cierre.gif",
+        "publishDate": "2019-08-01"
+    },
+    {
+        "id": "manejo-sitio-especifico-id",
+        "title": "Manejo sitio específico en la agricultura",
+        "author": "Juan Manuel Vázquez",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/213",
+        "coverImageUrl": "covers/manejo_sitio_especifico.gif",
+        "publishDate": "2019-07-01"
+    },
+    {
+        "id": "futbol-embriones-id",
+        "title": "De fútbol, embriones y ecosistemas",
+        "author": "Fernando Momo",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/201",
+        "coverImageUrl": "covers/de_futbol_embriones_ecosistemas.gif",
+        "publishDate": "2019-06-01"
+    },
+    {
+        "id": "abordajes-teorico-id",
+        "title": "Abordajes teórico-metodológicos de los conflictos socioambientales",
+        "author": "Elda Tancredi y Alejandra Valverde",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/200",
+        "coverImageUrl": "covers/abordajes_teorico.gif",
+        "publishDate": "2019-05-01"
+    },
+    {
+        "id": "emprendimiento-y-exportacion-id",
+        "title": "Emprendimiento y exportación",
+        "author": "Doris Marlene Olea Suárez y Sergio Gabriel Giannice",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/202",
+        "coverImageUrl": "covers/emprendimiento_y_exportacion.gif",
+        "publishDate": "2019-04-01"
+    },
+    {
+        "id": "problematicas-educacionales-id",
+        "title": "Problemáticas educacionales en la modernidad",
+        "author": "Claudia Figari y Adriana Migliovacca",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/198",
+        "coverImageUrl": "covers/problematicas-educacionales.gif",
+        "publishDate": "2019-03-01"
+    },
+    {
+        "id": "escuelas-populares-id",
+        "title": "Escuelas Populares",
+        "author": "Silvia Brusilovsky",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/177",
+        "coverImageUrl": "covers/escuelas_populares.gif",
+        "publishDate": "2018-11-01"
+    },
+    {
+        "id": "abriendo-caminos-id",
+        "title": "Abriendo Caminos",
+        "author": "Emiliano Cucciufo, Javier Di Matteo y Mariana Colombo",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/176",
+        "coverImageUrl": "covers/abriendo_caminos.gif",
+        "publishDate": "2018-10-01"
+    },
+    {
+        "id": "memoria-de-la-mirada-id",
+        "title": "Memoria de la mirada",
+        "author": "Cruder Gabriela",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/156",
+        "coverImageUrl": "covers/memoria_de_la_mirada.gif",
+        "publishDate": "2018-09-01"
+    },
+    {
+        "id": "genero-saberes-id",
+        "title": "Género, saberes y labores de las sociedades indígenas pampeano - patagónicas",
+        "author": "Mabel M. Fernández",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/159",
+        "coverImageUrl": "covers/genero_saberes_labores.gif",
+        "publishDate": "2018-08-01"
+    },
+    {
+        "id": "entre-voces-id",
+        "title": "Entre voces, experiencias de formación en comunidad de docentes lectores",
+        "author": "Galaburri, María L.",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/158",
+        "coverImageUrl": "covers/entre_voces.gif",
+        "publishDate": "2018-07-01"
+    },
+    {
+        "id": "disposiciones-generales-id",
+        "title": "Disposiciones generales de derecho internacional privado",
+        "author": "Porcelli, Adriana M.",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/157",
+        "coverImageUrl": "covers/disposiciones_generales_de_derecho.gif",
+        "publishDate": "2018-06-01"
+    },
+    {
+        "id": "el-interes-superior-id",
+        "title": "El interés superior del niño",
+        "author": "Insaurralde, Mariana",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/155",
+        "coverImageUrl": "covers/el_interes_superior_nino.gif",
+        "publishDate": "2018-05-01"
+    },
+    {
+        "id": "lengua-extranjera-id",
+        "title": "Lectocomprensión en lengua extranjera",
+        "author": "Diana Rosenfeld, Rosa Sánchez, Lidia Lacota y Analía Falchi",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/154",
+        "coverImageUrl": "covers/lectocomprension.gif",
+        "publishDate": "2018-04-01"
+    },
+    {
+        "id": "eros-tanatos-id",
+        "title": "Eros y Tánatos",
+        "author": "Capelli, María Claudia Sara",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/153",
+        "coverImageUrl": "covers/eros_y_tanatos.gif",
+        "publishDate": "2018-03-01"
+    },
+    {
+        "id": "hongos-de-la-reserva-id",
+        "title": "Hongos de la reserva forestal Los Robles. Partido de Moreno, Buenos Aires",
+        "author": "Adonis Giorgi y Beatriz González",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/151",
+        "coverImageUrl": "covers/hongos-los-robles.gif",
+        "publishDate": "2018-01-28"
+    },
+    {
+        "id": "antologia-id",
+        "title": "Antología, encuentros literarios",
+        "author": " Ángeles Bartolomé, Rubén Orlando González, Graciela Cristina Lavazza (Kahla), Antonino Enrique Martínez, Marta Ofelia Ramírez, Mabel Alicia Ramos, Cristina Retamozo y José María Scarnato",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/144",
+        "coverImageUrl": "covers/antologia_encuentros-literarios.gif",
+        "publishDate": "2018-01-27"
+    },
+    {
+        "id": "mocase-id",
+        "title": "Memorias de los Orígenes de la Central Campesina de Pinto",
+        "author": "Movimiento Campesino de Santiago del Estero - Vía Campesina (MoCaSE)",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/162",
+        "coverImageUrl": "covers/memorias_origenes_de_pinto.gif",
+        "publishDate": "2018-01-26"
+    },
+    {
+        "id": "buenas-practicas-id",
+        "title": "Buenas prácticas en producciones horti-florícolas en áreas periurbanas",
+        "author": "Mariana Garbi",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/141",
+        "coverImageUrl": "covers/buenas_practicas_horti-floricolas.gif",
+        "publishDate": "2018-01-25"
+    },
+    {
+        "id": "marcas-del-higienismo-id",
+        "title": "Marcas del higienismo en el Trabajo Social",
+        "author": "Roberta Paula Spregelburd y María Cristina Linares",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/139",
+        "coverImageUrl": "covers/marcas_del_higienismo.gif",
+        "publishDate": "2018-01-24"
+    },
+    {
+        "id": "educacion-politicas-id",
+        "title": "Educación, políticas públicas y hegemonía",
+        "author": "Mariano Indart",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/104",
+        "coverImageUrl": "covers/educacion_politicas_publicas_hegemonia.gif",
+        "publishDate": "2018-01-23"
+    },
+    {
+        "id": "introduccion-psicologia-id",
+        "title": "Introducción a las teorías psicológicas",
+        "author": "Cristina Norma Grinspon",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/103",
+        "coverImageUrl": "covers/introduccion_teorias_psicologicas.gif",
+        "publishDate": "2017-12-01"
+    },
+    {
+        "id": "trazabilidad-id",
+        "title": "Trazabilidad en la cadena de producción de pollos para carne",
+        "author": "Marcela A. Vázquez",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/102",
+        "coverImageUrl": "covers/trazabilidad.gif",
+        "publishDate": "2017-11-01"
+    },
+    {
+        "id": "apuntes-de-historia-id",
+        "title": "Apuntes de historia y política del nivel inicial",
+        "author": "Noemí Alicia Simon, Rosana Elizabeth Ponce y Ana Matilde Encabo",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/94",
+        "coverImageUrl": "covers/apuntes_de_historia_y_politica_del_nivel_inicial.gif",
+        "publishDate": "2017-10-01"
+    },
+    {
+        "id": "la-demolicion-de-derechos-id",
+        "title": "La demolición de derechos: un examen de las políticas del Banco Mundial para la educación y la salud 1980-2013",
+        "author": "João Márcio Mendes Pereira y Marcela A. Pronko",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/89",
+        "coverImageUrl": "covers/la_demolicion_derechos.gif",
+        "publishDate": "2016-12-01"
+    },
+    {
+        "id": "manejo-sistema-agropecuario-id",
+        "title": "Manejo del sistema agropecuario",
+        "author": "Juan Martín Gueçaimburu, Veronica Rojo, Gisela Reposo, Juan Manuel Vázquez y Maximiliano Martínez",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/84",
+        "coverImageUrl": "covers/manejo_sistema_agropecuario.gif",
+        "publishDate": "2016-11-01"
+    },
+    {
+        "id": "analisis-espacial-id",
+        "title": "Geografía y Análisis Espacial - Aplicaciones urbano-regionales con sistemas de información geográfica",
+        "author": "Gustavo D. Buzai, Claudia A. Baxendale, Luis Humacata, Graciela Cacace, Hugo Delfino, Sonia L.Lanzelotti y Noelia Principi",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/81",
+        "coverImageUrl": "covers/geografia_analisis_espacial.gif",
+        "publishDate": "2016-10-01"
+    },
+    {
+        "id": "raimundo-gomez-id",
+        "title": "Raimundo Gómez, caminante de los montes",
+        "author": "Movimiento Campesino de Santiago del Estero - Vía Campesina (MoCaSE)",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/80",
+        "coverImageUrl": "covers/raimundo_gomez.gif",
+        "publishDate": "2016-09-01"
+    },
+    {
+        "id": "ingreso-universitario-id",
+        "title": "Ingreso universitario. Políticas y estrategias para la inclusión: nuevas complejidades, nuevas respuestas",
+        "author": "María Adelaida Benvegnu",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/70",
+        "coverImageUrl": "covers/ingreso_universitario.gif",
+        "publishDate": "2015-12-01"
+    },
+    {
+        "id": "geografias-de-la-explotacion-id",
+        "title": "Geografías de la explotación de recursos naturales en la argentina del siglo XXI",
+        "author": "Graciela Patricia Cacace, Mariela Paula Dubravka, Susana Beatríz Fratini, María Esther Gómez, Jorge Osvaldo Morina y Graciela Emilse Suevo.",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/61",
+        "coverImageUrl": "covers/geografias_explotacion.gif",
+        "publishDate": "2016-07-01"
+    },
+    {
+        "id": "manual-hortalizas-id",
+        "title": "Manual de producción de hortalizas asiáticas",
+        "author": "Mariana Garbi,Miguel Angel Sangiacomo,Analía Puerta y Martín Nakama",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/60",
+        "coverImageUrl": "covers/hortalizas-asiaticas.gif",
+        "publishDate": "2016-06-01"
+    },
+    {
+        "id": "guerra-y-gobierno-local-id",
+        "title": "Guerra y gobierno local en el espacio rioplatense (1764-1820)",
+        "author": "María E. Barral y Raúl O. Fradkin",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/59",
+        "coverImageUrl": "covers/guerra_gobierno.gif",
+        "publishDate": "2016-05-01"
+    },
+    {
+        "id": "evaluacion-calidad-id",
+        "title": "Evaluación, calidad y escuela secundaria. En la ciudad de Buenos Aires (1992-2013)",
+        "author": "Susana E. Vior, Laura R. Rodríguez y Stella Maris Más Rocha",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/58",
+        "coverImageUrl": "covers/evaluacion_calidad.gif",
+        "publishDate": "2016-04-01"
+    },
+    {
+        "id": "memoria-origenes-id",
+        "title": "Memoria de los Orígenes de La Central Campesina de Productores del Norte",
+        "author": "Movimiento Campesino de Santiago del Estero - Vía Campesina (MoCaSE)",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/57",
+        "coverImageUrl": "covers/memorias_origenes_de_norte.gif",
+        "publishDate": "2016-03-01"
+    },
+    {
+        "id": "dinamica-demografica-id",
+        "title": "Dinámica demográfica de la niñez y la adolescencia en la Argentina",
+        "author": "Luis Pablo Dmitruk, Julieta López y Sofía Muhafra",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/56",
+        "coverImageUrl": "covers/dinamica-demografia.gif",
+        "publishDate": "2015-12-01"
+    },
+    {
+        "id": "estrategias-para-el-mejoramiento",
+        "title": "Estrategias para el mejoramiento y consolidación de la gestión pública del turismo: una nueva visita a conceptos clave para un desarrollo sostenido y sustentable a escala local",
+        "author": "Elda Tancredi y Fernanda González Maraschio",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/331",
+        "coverImageUrl": "covers/estrategias-turismo.gif",
+        "publishDate": "2025-07-01"
+    },
+    {
+        "id": "jornadas-argentinas-de-geotecnologa-2015-tecnologas-de-la-informacin-para-nuevas-formas-de-gestin-del-territorio",
+        "title": "JORNADAS ARGENTINAS DE GEOTECNOLOGÍA 2015. TECNOLOGÍAS DE LA INFORMACIÓN PARA NUEVAS FORMAS DE GESTIÓN DEL TERRITORIO",
+        "author": "María Cristina Serafini",
+        "collection": "",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/25",
+        "coverImageUrl": "covers/jornadas-geo.gif",
+        "publishDate": "2015-01-01"
+    },
+    {
+        "id": "el-caso-de-la-estancia-los-talas-lujn-provincia-de-buenos-aires-argentina-aportes-documentales-y-metodolgicos-para-la-valorizacin-del-patrimonio-cultural",
+        "title": "El caso de la estancia Los Talas: Luján, Provincia de Buenos Aires, Argentina : aportes documentales y metodológicos para la valorización del patrimonio cultural",
+        "author": "Mónica Fernández",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/336",
+        "coverImageUrl": "covers/los-talas.jpg",
+        "publishDate": "2025-10-02"
+    },
+    {
+        "id": "ese-fantasma-llamado-malvinas",
+        "title": "Ese fantasma llamado Malvinas",
+        "author": "Roberto Dalmazzo",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/338",
+        "coverImageUrl": "covers/ese_fantasma_llamado_malvinas.gif",
+        "publishDate": "2025-10-07"
+    },
+    {
+        "id": "a-orillas-del-cuento-taller-de-escritura-creativa",
+        "title": "A orillas del cuento. Taller de Escritura Creativa",
+        "author": "Paula Gutiérrez",
+        "collection": "",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/339",
+        "coverImageUrl": "covers/a_orillas_del_cuento.gif",
+        "publishDate": "2025-10-07"
+    },
+    {
+        "id": "relatos-de-un-viajero-apasionado",
+        "title": "Relatos de un viajero apasionado",
+        "author": "Mario Sergio Tierno",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/337",
+        "coverImageUrl": "covers/relatos_de_un_viajero.gif",
+        "publishDate": "2025-10-07"
+    },
+    {
+        "id": "pensar-la-intervencin-profesional-una-mirada-desde-el-trabajo-social",
+        "title": "Pensar la intervención profesional. Una mirada desde el Trabajo Social",
+        "author": "Walter Giribuela",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/340",
+        "coverImageUrl": "covers/pensar_la_intervencion.gif",
+        "publishDate": "2025-12-12"
+    },
+    {
+        "id": "fray-manuel-y-los-gigantes",
+        "title": "Fray Manuel y los gigantes",
+        "author": "Mariángeles Arnaiz",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/342",
+        "coverImageUrl": "covers/Fray manuel.gif",
+        "publishDate": "2026-02-23"
+    },
+    {
+        "id": "serie-optimiza-libro-3-modelos-simulacin-y-teora-de-la-decisin",
+        "title": "Serie Optimiza. Libro 3. Modelos, simulación y teoría de la decisión",
+        "author": "Ing. Alejandro Roberti, Ing. Gustavo Chijani, Ing. Esteban Gidekel",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/341",
+        "coverImageUrl": "covers/optimiza-3.gif",
+        "publishDate": "2026-02-23"
+    },
+    {
+        "id": "lumpen-libertario",
+        "title": "Lumpen Libertario",
+        "author": "Matías Artese",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/343",
+        "coverImageUrl": "covers/lumpen_libertario.gif",
+        "publishDate": "2026-02-24"
+    },
+    {
+        "id": "trabajo-hormiga-nuevo",
+        "title": "Trabajo de hormiga. Notas de Ecología, Medio Ambiente y Ciencia",
+        "author": "Adonis Giorgi",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/344",
+        "coverImageUrl": "covers/trabajo-hormiga-nuevo.gif",
+        "publishDate": "2026-02-23"
+    }
 ]
